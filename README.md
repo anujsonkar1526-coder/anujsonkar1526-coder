@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/anujsonkar1526-coder">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E5534B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anuj+Sonkar+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+real+projects+with+my+team" alt="Typing banner" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1200&color=E5534B&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Anuj+Sonkar+%F0%9F%91%8B;Full+Stack+Developer;Building+real+projects+with+my+team" alt="Typing banner" />
   </a>
 </h1>
 
